@@ -21,16 +21,16 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="<?= base_url('/') ?>">Home</a>
+        <a class="nav-link" href="<?= base_url('url')?>">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/url">URL</a>
+        <a class="nav-link" href="<?= base_url('url')?>">URL</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="<?= base_url('control') ?>">Controller</a>
+        <a class="nav-link" href="<?= base_url('url')?>">Controller</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="<?= base_url('database') ?>">Database</a>
+        <a class="nav-link" href="<?= base_url('url')?>">Database</a>
       </li>
     </ul>
   </div>

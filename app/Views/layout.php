@@ -24,7 +24,7 @@
         <a class="nav-link" href="<?= base_url('/') ?>">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/url">URL</a>
+        <a class="nav-link" href="url">URL</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="<?= base_url('control') ?>">Controller</a>
